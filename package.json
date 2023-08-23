@@ -1,0 +1,16 @@
+{
+  "name": "orbitcanvas",
+  "version": "1.0.0",
+  "description": "Simple orbit simulation using html canvas",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "test": "vitest",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "Lucas Pevidor",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "vitest": "^0.34.2"
+  }
+}
