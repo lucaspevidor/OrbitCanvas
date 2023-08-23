@@ -1,6 +1,6 @@
 # Planet Orbit Simulation using HTML Canvas
 
-![Demo](demo.gif)
+![Demo](https://github.com/lucaspevidor/OrbitCanvas/blob/main/Demo.gif)
 
 This project is a simple planet orbit simulation built using HTML Canvas. It provides a visual representation of the gravitational interactions between a central star and orbiting planets. By adjusting parameters such as planet mass, initial velocity, and gravitational constant, users can observe the resulting orbits and explore different scenarios.
 
